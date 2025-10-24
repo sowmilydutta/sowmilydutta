@@ -4,7 +4,7 @@
 
 ## Building my developer journey with fun!  (Less commits so far, but big plans brewing ☕️)
 
-I'm a 5-year IT veteran with a B.Tech in the field, currently diving into the fascinating world of ML & AI with my Master's degree 🌱  
+I'm a 6-year IT veteran with a B.Tech in the field and a PG from IIIT-B in ML and AI, currently diving into the fascinating world of ML & AI with my Master's degree 🌱  
 Get ready for some awesome projects to hit this profile soon - stay tuned! ️⚡ 
 
 In my free time, you'll find me doing either of them:
